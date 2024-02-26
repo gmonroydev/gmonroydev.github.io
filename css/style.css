@@ -772,8 +772,13 @@ svg{
 }
 
 .blog .blog-item a.btn {
+    color: #ffffff;
     margin-top: 10px;
     padding: 8px 15px;
+}
+
+.blog .blog-item a.btn:hover{
+    color: #EF233C;
 }
 
 .blog .blog-item a.btn i {
