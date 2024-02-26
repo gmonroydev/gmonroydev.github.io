@@ -205,6 +205,10 @@ a:focus {
     .navbar .dropdown-menu {
         box-shadow: none;
     }
+
+    h1{
+        font-size: 36px;
+    }
 }
 
 
@@ -366,7 +370,7 @@ a:focus {
     }
     
     .hero .hero-text h1 {
-        font-size: 35px;
+        font-size: 28px;
     }
     
     .hero .hero-text h2 {
@@ -375,7 +379,7 @@ a:focus {
     }
 
     .hero .hero-text h3{
-        font-size: 22px;
+        font-size: 18px;
     }
     
     .hero .hero-btn .btn {
